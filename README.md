@@ -41,6 +41,16 @@ Neste Labs você irá construir uma aplicação para gerenciar as esferas do dra
 - yarn cy:run
 - yarn run cypress open
 
+# Instalação YARN
+
+<p align="center"> <img src="/Screen-documentation/Yarn install.jpg"> </p>
+
+# Telas da aplicação
+<p align="center"> <img src="/Screen-documentation/Application - screen number 1.jpg"> </p>
+<p align="center"> <img src="/Screen-documentation/Application - screen number 2.jpg"> </p>
+<p align="center"> <img src="/Screen-documentation/Application - screen number 3.jpg"> </p>
+<p align="center"> <img src="/Screen-documentation/Application - screen number 4.jpg"> </p>
+
 # Testes executados com Cypress
 
 ### Sem invocar Shenlong
